@@ -1,1 +1,1 @@
-print("ocean academy")
+print("ocean ")
